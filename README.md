@@ -6,6 +6,7 @@
        <img height = "195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceaanjj&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="oceaanjj's GitHub Stats" />
     </a>
 </div>
+## Github Streak
 
 <div align="center" style="display: flex; justify-content: center;">
  <a>       
@@ -13,10 +14,8 @@
  </a>
 </div>
 
-## Github Streak
-<div align="center" style="display: flex; justify-content: center;">
-    <img height = "195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceaanjj&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="oceaanjj's GitHub Stats" />
-</div>
+
+
 
 
 
