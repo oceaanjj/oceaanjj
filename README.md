@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center;">
-    <img height = "320px" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=dark&hide_border=true" alt="oceaanjj's GitHub Stats" />
+    <img height = "325px" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=dark&hide_border=true" alt="oceaanjj's GitHub Stats" />
 </div>
 
 
