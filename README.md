@@ -7,7 +7,7 @@
     </a>
 </div>
 
-<img height = "390px" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=dark&hide_border=true" alt="oceaanjj's GitHub Stats" />
+<img height = "300px" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=dark&hide_border=true" alt="oceaanjj's GitHub Stats" />
 
 
 
