@@ -1,4 +1,4 @@
-#    Github Stats
+##    Github Stats
 
 <div align="center" style="display: flex; justify-content: center;">
 <a href="https://git.io/streak-stats">
@@ -7,6 +7,7 @@
     </a>
 </div>
 
+## Github Streak
 <div align="center" style="display: flex; justify-content: center;">
     <img height = "325px" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=dark&hide_border=true" alt="oceaanjj's GitHub Stats" />
 </div>
