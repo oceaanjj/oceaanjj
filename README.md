@@ -9,7 +9,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
  <a href="https://git.io/streak-stats">
-        <img height = "220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceaanjj&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="oceaanjj's GitHub Stats" />
+        <img height = "250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceaanjj&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="oceaanjj's GitHub Stats" />
  </a>
 </div>
 
