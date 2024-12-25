@@ -1,4 +1,4 @@
-##    Github Stats
+##    📈 Github Stats
 
 <div align="center" style="display: flex; justify-content: center;">
 <a href="https://git.io/streak-stats">
