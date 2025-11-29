@@ -1,7 +1,7 @@
 ##   📈 Github Stats
 
-<img align="left" src="https://i.pinimg.com/originals/0d/88/e8/0d88e8741e8a2e114aec73917b6c8eff.gif" width="30%" style="display:inline;">
-<img align="right" src="https://i.pinimg.com/originals/0d/88/e8/0d88e8741e8a2e114aec73917b6c8eff.gif" width="30%" style="display:inline;">
+<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="30%" style="display:inline;">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="30%" style="display:inline;">
 
 <div align="center" style="display: flex; justify-content: center;">
  <a href="https://git.io/streak-stats">
