@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" 
-         width="30%" 
+         width="25%" 
          alt="Animated GIF">
     
 <a href="https://git.io/streak-stats">
@@ -12,7 +12,7 @@
 </a>
     
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" 
-         width="30%" 
+         width="25%" 
          alt="Animated GIF">
          
 </div>
