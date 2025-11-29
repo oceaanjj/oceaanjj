@@ -2,8 +2,8 @@
 
 <div style="display: flex; align-items: center; justify-content: center; width: 100%;">
     <div style="margin-right: -100px; display: flex; flex-direction: column; align-items: flex-end;">
-        <img src="https://i.imgur.com/your-star-gif1.gif" width="100px" style="margin-bottom: -60px;" alt="Star GIF 1">
-        <img src="https://i.imgur.com/your-star-gif2.gif" width="100px" style="margin-left: 20px;" alt="Star GIF 2">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="100px" style="margin-bottom: -60px;" alt="Star GIF 1">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="100px" style="margin-left: 20px;" alt="Star GIF 2">
     </div>
     
 <div style="z-index: 1;">
