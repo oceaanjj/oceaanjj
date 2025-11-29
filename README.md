@@ -1,4 +1,7 @@
-##   📈 Github Stats
+
+<p align="center">
+    <h1 align="center">✩&emsp;oceaanjj github stats&emsp;✩</h1>
+</p>
 
 <div style="display:inline">
 
