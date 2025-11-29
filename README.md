@@ -6,7 +6,7 @@
 
 
   <a href="https://git.io/streak-stats">
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=jolly&hide_border=true" alt="oceaanjj's GitHub Stats"/>      
+  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=jolly&hide_border=true" alt="oceaanjj's GitHub Stats"/>      
   </a>
 
 
