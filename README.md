@@ -7,11 +7,9 @@
     <h1 align="center">✩&emsp;oceaanjj&emsp;✩</h1>
 </p>
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center">
  <a href="https://git.io/streak-stats">
-        <img height = "170px" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=jolly&hide_border=true" alt="oceaanjj's GitHub Stats" />
-      
-        
+        <img height = "170px" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=jolly&hide_border=true" alt="oceaanjj's GitHub Stats" />     
  </a>
 </div>
 
