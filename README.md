@@ -1,8 +1,8 @@
 ##   📈 Github Stats
 
 
-<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="30%" style="display:inline;">
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="30%" style="display:inline;"> 
+<img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="30%" style="display:absolute;">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="30%" style="display:absolute;"> 
 
 
 <td width="70%" align="center">
