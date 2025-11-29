@@ -4,10 +4,11 @@
 
 <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="25%">
 
-
-<a href="https://git.io/streak-stats" align="center">
+<div align="center">
+<a href="https://git.io/streak-stats">
 <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=jolly&hide_border=true" alt="oceaanjj's GitHub Stats"/>      
 </a>
+</div>
 
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="25%"> 
