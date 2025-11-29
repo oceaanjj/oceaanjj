@@ -2,11 +2,12 @@
 
 
 <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="30%" style="display:absolute;">
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="30%" style="display:absolute;"> 
 
 <a href="https://git.io/streak-stats">
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=oceaanjj&theme=jolly&hide_border=true" alt="oceaanjj's GitHub Stats" />      
-      </a>
+</a>
+
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoxM3FkN2t2dW1ta2lqOGkydDhqMXAxYW1mbzU2dm1zdzVic2ZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYiHSB3BYgu65aJnIN/giphy.gif" width="30%" style="display:absolute;"> 
 
 
 
