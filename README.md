@@ -1,6 +1,6 @@
 
 <p align="center">
-    <h5 align="center">&emsp;github stats&emsp;</h5>
+    <h3 align="center">&emsp;github stats&emsp;</h3>
 </p>
 
 <div style="display:inline">
